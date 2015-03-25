@@ -74,7 +74,6 @@ int main() {
   replace_str(para, CurFirstName, NewFirstName);
   //replace_str(para, CurLastName, NewLastName);
   //printf("Your paragraph now is : %s\n", para);
-  return para;
 }
 
 
